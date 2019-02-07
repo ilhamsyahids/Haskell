@@ -1,6 +1,6 @@
 
 --FPB --fpb(a,b)
-module Fpb where
+module FPB where
 
 -- Definisi dan Spesifikasi
 fpb :: Int -> Int -> Int
