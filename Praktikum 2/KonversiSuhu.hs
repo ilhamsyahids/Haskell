@@ -4,16 +4,17 @@
 -- Topik 			: Fungsi
 -- Deskripsi 	: Konversi Suhu
 
--- Konversi Suhu -konversiSuhu(a,b)
+-- Konversi Suhu -konversiSuhu(c,s)
 module KonversiSuhu where
 
 -- Deskripsi dan Spesifikasi
 konversiSuhu :: Float -> Char -> Float
-	-- konversiSuhu(a,b) menerima input derajat celsius
-	-- dan bentuk konversinya
+	-- konversiSuhu(c,s) mengkonversikan suhu dalam derajat Celcius
+	-- menjadi suhu dalam derajat Fahrenheit, Reamur atau Kelvin.
+	-- c bertipe integer, dan s bertipe character
 
 
-konversiSuhu a b
-	| (b == 'R') = (4/5 * a)			-- R = 4/5 * C
-	| (b == 'F') = (9/5 * a) + 32	-- F = (9/5 * C) + 32
-	| (b == 'K') = a + 273.15			-- K = C + 273.15
+konversiSuhu t s
+	| (s == 'R') = (4/5 * c)			-- R = 4/5 * C
+	| (s == 'F') = (9/5 * c) + 32	-- F = (9/5 * C) + 32
+	| (s == 'K') = c + 273.15			-- K = C + 273.15
