@@ -1,4 +1,5 @@
-module SumDigits where
+-- SumOfDigits
+module SumOfDigits where
 
 -- Deskripsi dan Spesifikasi
 sd1 :: Int -> Int
