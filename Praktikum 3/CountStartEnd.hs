@@ -75,10 +75,10 @@ isOneElmt :: [Int] -> Bool
 -- REALISASI
 isOneElmt l = (length l) == 1
 
-countStartEnd :: [Int] -> Int
+countStartEnd :: [Int] -> Int -> Int
 
 countStartEnd l n
  | (isEmpty l) = 0
  | n == 0 = 0
- | isOneElmt l = (head l)
- | otherwise = (head l) + (last l) + countStartEnd (init(tail l)) (n-1)
+ | (isOneElmt l) = (head l)
+ | otherwise = (head l) + (last l) + (countStartEnd (init(tail l)) (n-1))
