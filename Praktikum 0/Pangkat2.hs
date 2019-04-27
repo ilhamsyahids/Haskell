@@ -1,7 +1,7 @@
 -- NIM/Nama  	: 16518360/Ilham Syahid S
 -- Nama File	: Pangkat2.hs
--- Topik	: Ekspresi Dasar
--- Tanggal 	: 23 Januari 2019
+-- Topik		: Ekspresi Dasar
+-- Tanggal		: 23 Januari 2019
 -- Deskripsi	: Pangkat 2 bilangan integer
 
 module Pangkat2 where

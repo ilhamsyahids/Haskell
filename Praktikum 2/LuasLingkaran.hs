@@ -1,7 +1,7 @@
--- NIM 				: 16518360
--- Nama 			: Ilham Syahid Syamsudin
+-- NIM 			: 16518360
+-- Nama 		: Ilham Syahid Syamsudin
 -- Tanggal 		: Rabu, 6 Januari 2019
--- Topik 			: Fungsi
+-- Topik 		: Fungsi
 -- Deskripsi 	: Luas Lingkaran
 
 --LuasLingkaran - luasLingkaran(r)
@@ -15,9 +15,9 @@ luasLingkaran :: Float -> Float
 
 -- Realisasi
 luasLingkaran r =
-	let p = 3.1415 -- phi
+	let p = 3.1415	-- phi
 		in
-			(p*r*r)  -- rumus luas lingkaran
+			(p*r*r)	-- rumus luas lingkaran
 
 -- Aplikasi
 -- luasLingkaran 4

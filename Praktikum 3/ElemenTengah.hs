@@ -1,8 +1,8 @@
--- NIM/Nama  	: 16518360/Ilham Syahid S
--- Nama File	: KaliSemua.hs
--- Topik      : Rekursif dan List
--- Tanggal 	  : 20 Februari 2019
--- Deskripsi	: Menghasilkan elemen tengah dari list
+-- NIM/Nama     : 16518360/Ilham Syahid S
+-- Nama File    : ElemenTengah.hs
+-- Topik        : Rekursif dan List
+-- Tanggal      : 20 Februari 2019
+-- Deskripsi    : Menghasilkan elemen tengah dari list
 
 module ElemenTengah where
 {-

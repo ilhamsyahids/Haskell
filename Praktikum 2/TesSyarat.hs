@@ -1,7 +1,7 @@
--- NIM 				: 16518360
--- Nama 			: Ilham Syahid Syamsudin
+-- NIM 			: 16518360
+-- Nama 		: Ilham Syahid Syamsudin
 -- Tanggal 		: Rabu, 6 Januari 2019
--- Topik 			: Fungsi
+-- Topik 		: Fungsi
 -- Deskripsi 	: Menentukan Beasiswa
 
 -- TesSyarat - tesSyarat(ip,pot)

@@ -1,8 +1,8 @@
--- NIM/Nama  	: 16518360/Ilham Syahid S
--- Nama File	: GabungList.hs
--- Topik      : Rekursif dan List
--- Tanggal 	  : 20 Februari 2019
--- Deskripsi	: Menggabungkan 2 list dan mengurutkannya tidak mengecil
+-- NIM/Nama     : 16518360/Ilham Syahid S
+-- Nama File    : Gabunglist.hs
+-- Topik        : Rekursif dan List
+-- Tanggal      : 20 Februari 2019
+-- Deskripsi    : Menggabungkan 2 list dan mengurutkannya tidak mengecil
 
 module GabungList where
 

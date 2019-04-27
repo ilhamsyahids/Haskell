@@ -1,7 +1,7 @@
--- NIM/Nama  	: 16518360/Ilham Syahid S
+-- NIM/Nama		: 16518360/Ilham Syahid S
 -- Nama File	: CountEvenDigits.hs
--- Topik      : Rekursif dan List
--- Tanggal 	  : 20 Februari 2019
+-- Topik		: Rekursif dan List
+-- Tanggal		: 20 Februari 2019
 -- Deskripsi	: Menghitung jumlah genap pada digit
 
 {-

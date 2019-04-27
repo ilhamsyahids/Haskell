@@ -1,8 +1,8 @@
--- NIM/Nama  	: 16518360/Ilham Syahid S
--- Nama File	: CountStartEnd.hs
--- Topik      : Rekursif dan List
--- Tanggal 	  : 20 Februari 2019
--- Deskripsi	: Menghitung jumlah n elemen pertama dan terakhir pada list
+-- NIM/Nama     : 16518360/Ilham Syahid S
+-- Nama File    : CountStartEnd.hs
+-- Topik        : Rekursif dan List
+-- Tanggal      : 20 Februari 2019
+-- Deskripsi    : Menghitung jumlah n elemen pertama dan terakhir pada list
 
 
 module CountStartEnd where

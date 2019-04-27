@@ -1,8 +1,8 @@
--- NIM/Nama  	: 16518360/Ilham Syahid S
--- Nama File	: NbKelipatanX.hs
--- Topik      : Rekursif dan List
--- Tanggal 	  : 20 Februari 2019
--- Deskripsi	: Kelipatan X pada selang m dan n
+-- NIM/Nama     : 16518360/Ilham Syahid S
+-- Nama File    : NbKelipatanX.hs
+-- Topik        : Rekursif dan List
+-- Tanggal      : 20 Februari 2019
+-- Deskripsi    : Kelipatan X pada selang m dan n
 
 
 module NbKelipatanX where

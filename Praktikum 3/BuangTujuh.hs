@@ -1,8 +1,8 @@
--- NIM/Nama  	: 16518360/Ilham Syahid S
--- Nama File	: KaliSemua.hs
--- Topik      : Rekursif dan List
--- Tanggal 	  : 20 Februari 2019
--- Deskripsi	: Membuang semua angka 7 pada list
+-- NIM/Nama     : 16518360/Ilham Syahid S
+-- Nama File    : BuangTujuh.hs
+-- Topik        : Rekursif dan List
+-- Tanggal      : 20 Februari 2019
+-- Deskripsi    : Membuang semua angka 7 pada list
 
 module BuangTujuh where
 {-
